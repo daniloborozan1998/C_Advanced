@@ -1,0 +1,16 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDays.exe
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDays.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDays.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDays.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDays.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDays.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDaysServices.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\bin\Debug\netcoreapp3.1\WorkingDaysServices.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDays\obj\Debug\netcoreapp3.1\WorkingDays.genruntimeconfig.cache

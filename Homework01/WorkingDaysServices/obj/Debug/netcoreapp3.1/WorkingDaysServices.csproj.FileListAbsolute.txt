@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\bin\Debug\netcoreapp3.1\WorkingDaysServices.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\bin\Debug\netcoreapp3.1\WorkingDaysServices.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\bin\Debug\netcoreapp3.1\WorkingDaysServices.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\obj\Debug\netcoreapp3.1\WorkingDaysServices.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\obj\Debug\netcoreapp3.1\WorkingDaysServices.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\obj\Debug\netcoreapp3.1\WorkingDaysServices.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\obj\Debug\netcoreapp3.1\WorkingDaysServices.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\obj\Debug\netcoreapp3.1\WorkingDaysServices.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\WorkingDaysServices\obj\Debug\netcoreapp3.1\WorkingDaysServices.pdb

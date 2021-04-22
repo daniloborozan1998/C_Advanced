@@ -1,0 +1,12 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\bin\Debug\netcoreapp3.1\RockPaperScissiorsServices.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\bin\Debug\netcoreapp3.1\RockPaperScissiorsServices.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\bin\Debug\netcoreapp3.1\RockPaperScissiorsServices.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\bin\Debug\netcoreapp3.1\RockPaperScissorsDomain.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\bin\Debug\netcoreapp3.1\RockPaperScissorsDomain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\RockPaperScissiorsServices\obj\Debug\netcoreapp3.1\RockPaperScissiorsServices.pdb

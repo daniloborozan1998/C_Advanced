@@ -1,0 +1,18 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.exe
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.genruntimeconfig.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\RockPaperScissiorsServices.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\RockPaperScissorsDomain.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\RockPaperScissiorsServices.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\bin\Debug\netcoreapp3.1\RockPaperScissorsDomain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csproj.CopyComplete
