@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\bin\Debug\netcoreapp3.1\AnimalDogCatDomain.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\bin\Debug\netcoreapp3.1\AnimalDogCatDomain.dll
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\bin\Debug\netcoreapp3.1\AnimalDogCatDomain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\obj\Debug\netcoreapp3.1\AnimalDogCatDomain.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\obj\Debug\netcoreapp3.1\AnimalDogCatDomain.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\obj\Debug\netcoreapp3.1\AnimalDogCatDomain.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\obj\Debug\netcoreapp3.1\AnimalDogCatDomain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\obj\Debug\netcoreapp3.1\AnimalDogCatDomain.dll
+C:\Users\Danilo Borozan\Desktop\Homework02\AnimalDogCatDomain\obj\Debug\netcoreapp3.1\AnimalDogCatDomain.pdb
