@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\AnimalsDogCat\\AnimalsDogCat.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework02\\AnimalsDogCat\\AnimalsDogCat.csproj",
       "projectName": "AnimalsDogCat",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\AnimalsDogCat\\AnimalsDogCat.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework02\\AnimalsDogCat\\AnimalsDogCat.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\AnimalsDogCat\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework02\\AnimalsDogCat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\AnimalDogCatDomain\\AnimalDogCatDomain.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\AnimalDogCatDomain\\AnimalDogCatDomain.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework02\\AnimalDogCatDomain\\AnimalDogCatDomain.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework02\\AnimalDogCatDomain\\AnimalDogCatDomain.csproj"
             }
           }
         }

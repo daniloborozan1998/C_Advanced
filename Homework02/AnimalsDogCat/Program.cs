@@ -40,6 +40,7 @@ namespace AnimalsDogCat
                         Console.WriteLine("1) Dog");
                         Console.WriteLine("2) Cat");
                         Console.WriteLine("3) Bonus");
+                        Console.WriteLine("4) Exit");
                         Console.WriteLine("=============================");
                         bool succ = int.TryParse(Console.ReadLine(), out int answer);
                         if (succ)
@@ -153,6 +154,9 @@ namespace AnimalsDogCat
                                         }
                                     }
                                 }
+                            }else if (answer == 4)
+                            {
+                                Environment.Exit(-1);
                             }
                             else
                             {
