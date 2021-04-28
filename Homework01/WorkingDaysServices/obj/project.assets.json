@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\WorkingDaysServices\\WorkingDaysServices.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\WorkingDaysServices\\WorkingDaysServices.csproj",
       "projectName": "WorkingDaysServices",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\WorkingDaysServices\\WorkingDaysServices.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\WorkingDaysServices\\WorkingDaysServices.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\WorkingDaysServices\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\WorkingDaysServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",

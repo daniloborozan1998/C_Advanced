@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj",
         "projectName": "RockPaperScissorsDomain",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\RockPaperScissorsDomain\\RockPaperScissorsDomain.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework01\\RockPaperScissorsDomain\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework01\\RockPaperScissorsDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
