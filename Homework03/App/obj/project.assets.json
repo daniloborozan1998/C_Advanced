@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\App\\App.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\App\\App.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\App\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\AppDomain\\AppDomain.csproj": {
-              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\AppDomain\\AppDomain.csproj"
+            "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\AppDomain\\AppDomain.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\AppDomain\\AppDomain.csproj"
             }
           }
         }

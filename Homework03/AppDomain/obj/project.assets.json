@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\AppDomain\\AppDomain.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\AppDomain\\AppDomain.csproj",
       "projectName": "AppDomain",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\AppDomain\\AppDomain.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\AppDomain\\AppDomain.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework03\\AppDomain\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework03\\AppDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
