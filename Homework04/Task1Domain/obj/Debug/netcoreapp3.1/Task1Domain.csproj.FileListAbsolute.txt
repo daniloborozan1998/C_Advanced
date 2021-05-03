@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\bin\Debug\netcoreapp3.1\Task1Domain.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\bin\Debug\netcoreapp3.1\Task1Domain.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\bin\Debug\netcoreapp3.1\Task1Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\obj\Debug\netcoreapp3.1\Task1Domain.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\obj\Debug\netcoreapp3.1\Task1Domain.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\obj\Debug\netcoreapp3.1\Task1Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\obj\Debug\netcoreapp3.1\Task1Domain.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\obj\Debug\netcoreapp3.1\Task1Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1Domain\obj\Debug\netcoreapp3.1\Task1Domain.csprojAssemblyReference.cache

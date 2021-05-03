@@ -1,0 +1,16 @@
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2Domain.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\bin\Debug\netcoreapp3.1\Task2Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
