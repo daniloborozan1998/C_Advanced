@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AnimalDogCatDomain.Classes
 {
-    public class Info
+    public static class Info
     {
         public static List<Animal> Animals = new List<Animal>()
         {

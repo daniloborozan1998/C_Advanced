@@ -9,6 +9,17 @@ namespace AnimalsDogCat
     {
         static void Main(string[] args)
         {
+            List<Animal> Dogs = new List<Animal>()
+            {
+                new Dog("Lessi", "Brown", "Labrador", 2, Genders.Female),
+                new Dog("Bella", "Black and White", "Husky", 5, Genders.Female),
+                new Dog("Rocky", "Yellow", "Chow chow", 2, Genders.Male),
+                new Dog("Apollo", "White", "French bulldog", 3, Genders.Male),
+                new Dog("Buddy", "Black", "Beagle", 1, Genders.Male),
+                new Dog("Max", "Brown", "German Sheppard", 3, Genders.Male),
+                new Dog("Lucy", "Brown and White", "Pekingese", 4, Genders.Female),
+                new Dog("Luna", "White", "Corgi", 1, Genders.Female)
+            };
             Dog dog1 = new Dog("Lessi", "Brown", "Labrador", 2, Genders.Female);
             Dog dog2 = new Dog("Bella", "Black and White", "Husky", 5, Genders.Female);
             Dog dog3 = new Dog("Rocky", "Yellow", "Chow chow", 2, Genders.Male);
@@ -48,6 +59,8 @@ namespace AnimalsDogCat
                             if (answer == 1)
                             {
                                 Console.ForegroundColor = ConsoleColor.DarkGreen;
+
+
                                 Console.WriteLine("========INFO======");
                                 Console.WriteLine("===First dog===");
                                 Console.WriteLine(dog1.GetType());
