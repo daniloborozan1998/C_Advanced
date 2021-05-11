@@ -1,0 +1,9 @@
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\bin\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.deps.json
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\bin\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.dll
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\bin\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.pdb
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\obj\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\obj\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\obj\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\obj\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\obj\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.dll
+C:\Users\Danilo Borozan\Desktop\SEDC.TimeTracking\SEDC.TimeTrackingDomain\obj\Debug\netcoreapp3.1\SEDC.TimeTrackingDomain.pdb

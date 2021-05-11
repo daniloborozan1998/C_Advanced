@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.TimeTrackingDomain/1.0.0": {
+        "runtime": {
+          "SEDC.TimeTrackingDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.TimeTrackingDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
