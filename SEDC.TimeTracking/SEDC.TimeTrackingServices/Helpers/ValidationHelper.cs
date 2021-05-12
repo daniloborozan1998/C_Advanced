@@ -23,15 +23,7 @@ namespace SEDC.TimeTrackingServices.Helpers
             {
                 return false;
             }
-            bool isNum = false;
-            foreach (char ch in password)
-            {
-                isNum = int.TryParse(ch.ToString(), out int num);
-                if (isNum)
-                    break;
-            }
-
-            if (!isNum)
+            if (!password.Any(char.IsDigit))
             {
                 return false;
             }
@@ -53,7 +45,7 @@ namespace SEDC.TimeTrackingServices.Helpers
             {
                 return false;
             }
-            if (fname.Length < 2)
+            if (fname.Length < 2 && fname.Length > 20)
             {
                 return false;
             }
@@ -67,7 +59,7 @@ namespace SEDC.TimeTrackingServices.Helpers
                 return false;
             }
 
-            if (lname.Length < 2)
+            if (lname.Length < 2 && lname.Length > 20)
             {
                 return false;
             }
