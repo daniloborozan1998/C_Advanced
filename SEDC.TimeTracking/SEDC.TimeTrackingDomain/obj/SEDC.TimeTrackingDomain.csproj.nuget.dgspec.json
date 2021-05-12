@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
         "projectName": "SEDC.TimeTrackingDomain",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTracking\\SEDC.TimeTrackingDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",

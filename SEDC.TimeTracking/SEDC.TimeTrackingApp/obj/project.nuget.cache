@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mvGIzP1PPiBi/o+9lmhUBVP+4H2iYUp9A7vZkJNqDcOuM+2WRTnKEttwoKHrRvAuLI5R7cLRtzDN+9pGlmnGUw==",
+  "dgSpecHash": "XuWcOTQIabNKtynygFg+qZuzZQX+2oStSh4ZNjolQKoXmsHSbj0e2EGFkNr+ZrQED84APPkJn52XtTOzGs09DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTracking\\SEDC.TimeTrackingApp\\SEDC.TimeTrackingApp.csproj",
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTracking\\SEDC.TimeTrackingApp\\SEDC.TimeTrackingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danilo Borozan\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\Danilo Borozan\\.nuget\\packages\\fakeiteasy\\7.0.2\\fakeiteasy.7.0.2.nupkg.sha512",

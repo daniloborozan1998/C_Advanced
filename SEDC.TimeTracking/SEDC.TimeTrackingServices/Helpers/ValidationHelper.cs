@@ -9,7 +9,7 @@ namespace SEDC.TimeTrackingServices.Helpers
     {
         public static bool ValidationUsername(string username)
         {
-            if (username.Length < 5)
+            if (username.Length < 5 && username.Length > 20)
             {
                 return false;
             }
@@ -19,7 +19,7 @@ namespace SEDC.TimeTrackingServices.Helpers
 
         public static bool ValidationPassword(string password)
         {
-            if (password.Length < 6)
+            if (password.Length < 6 && password.Length > 20)
             {
                 return false;
             }
