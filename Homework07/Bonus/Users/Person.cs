@@ -8,9 +8,9 @@ namespace Bonus.Users
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string Age { get; set; }
+        public int Age { get; set; }
 
-        public Person(string fName, string lName, string age)
+        public Person(string fName, string lName, int age)
         {
             FirstName = fName;
             LastName = lName;

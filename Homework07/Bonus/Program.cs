@@ -11,11 +11,11 @@ namespace Bonus
         public static PersonService personService = new PersonService();
         public static List<Person> Persons = new List<Person>()
         {
-            new Person("Danilo","Borozan","23"),
-            new Person("Smith","Row","19"),
-            new Person("Sergio","Ramos","34"),
-            new Person("Anna","Annesky","20"),
-            new Person("Lusy","Lusysky","26"),
+            new Person("Danilo","Borozan",23),
+            new Person("Smith","Row",19),
+            new Person("Sergio","Ramos",34),
+            new Person("Anna","Annesky",20),
+            new Person("Lusy","Lusysky",26),
         };
         static void Main(string[] args)
         {
@@ -36,11 +36,11 @@ namespace Bonus
                 List<Person> listOfPersons = new List<Person>();
 
 
-                StreamReader file = new StreamReader(@"C:\Users\Danilo Borozan\Desktop\Homework07\Bonus\Exercise\personInfo.txt");
+                StreamReader file = new StreamReader(@"C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_Advanced\Homework07\Bonus\Exercise\personInfo.txt");
                 while ((line = file.ReadLine()) != null)
                 {
                     string[] words = line.Split(' ');
-                    listOfPersons.Add(new Person(words[0], words[1], words[2]));
+                    listOfPersons.Add(new Person(words[0], words[1], Convert.ToInt32(words[2])));
                 }
                 file.Close();
 

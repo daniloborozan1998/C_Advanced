@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Task1\\Task1.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,3 +2,7 @@
 Message: Index was outside the bounds of the array.
 Time: 5/19/2021 4:03:15 PM
 =====================
+[Error]: Exception
+Message: Could not find a part of the path 'C:\Users\Danilo Borozan\Desktop\Homework07\Bonus\Exercise\personInfo.txt'.
+Time: 5/19/2021 6:13:52 PM
+=====================

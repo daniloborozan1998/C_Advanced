@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Bonus\\Bonus.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Bonus\\Bonus.csproj",
       "projectName": "Bonus",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Bonus\\Bonus.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Bonus\\Bonus.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Bonus\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\Homework07\\Bonus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
