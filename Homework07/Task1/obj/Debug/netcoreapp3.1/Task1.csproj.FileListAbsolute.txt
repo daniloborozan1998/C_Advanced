@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Danilo Borozan\Desktop\Homework07\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
