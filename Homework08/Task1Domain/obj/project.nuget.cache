@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YI91xH81jOuPBgnnleGK0WrWVU6FPzhI8YylSfxt7qYUiZjg86DAQpW3gDhZLssGUjpiuVpMTgJnHYnJKyR9VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework08\\Task1Domain\\Task1Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danilo Borozan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

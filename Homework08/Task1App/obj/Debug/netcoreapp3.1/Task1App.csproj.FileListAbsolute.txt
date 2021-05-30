@@ -1,0 +1,17 @@
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1App.exe
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1App.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1App.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1App.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1App.dll
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1App.pdb
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1Domain.dll
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\bin\Debug\netcoreapp3.1\Task1Domain.pdb
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.dll
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.pdb
+C:\Users\Danilo Borozan\Desktop\Homework08\Task1App\obj\Debug\netcoreapp3.1\Task1App.genruntimeconfig.cache
