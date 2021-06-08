@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
         "projectName": "SEDC.TimeTrackingDomain",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj",
         "projectName": "SEDC.TimeTrackingServices",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\SEDC.TimeTrackingServices.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {
-                "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingRequirementsPart 2\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj"
+              "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj": {
+                "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj"
               }
             }
           }
