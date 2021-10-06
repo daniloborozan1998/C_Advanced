@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c07wAVEpfLCQNKXWyLJILih6KlJfGOHBDaTpIdLhZ+mEPqbcGhiZgxWQeIlEcFAEh1ABXw0q6AmrxSE6g97TIA==",
+  "dgSpecHash": "OulVWPBHdXTYNwqIz1GMvuyFIGXbNjEi1huTHSBy2sxWE0iWQfA+W/nXWtfzjdf0T8ONK2MGb165P74bbEBCBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\SEDC.TimeTrackingPart2\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
+  "projectFilePath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_Advanced\\SEDC.TimeTrackingPart3\\SEDC.TimeTrackingDomain\\SEDC.TimeTrackingDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danilo Borozan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
